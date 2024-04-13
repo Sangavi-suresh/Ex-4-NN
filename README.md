@@ -175,7 +175,8 @@ print(classification_report(testing_b,predicted_values))
 <H3>Output:</H3>
 
 ```
-![image](https://github.com/Sangavi-suresh/Ex-4-NN/assets/118541861/54f3152d-0742-408f-b1ba-392e4162e763)
+
+![321188559-3917e443-9424-404b-8fbd-c40cf6a455c1](https://github.com/Sangavi-suresh/Ex-4-NN/assets/118541861/405611d4-fa08-4082-8eb6-b8cb53116b16)
 
 
 ```
