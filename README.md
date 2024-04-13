@@ -1,8 +1,8 @@
 
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME</H3> SANGAVI SURESH
+<H3>ENTER YOUR REGISTER NO.</H3> 212222230130
 <H3>EX. NO.4</H3>
-<H3>DATE:</H3>
+
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
 <H3>Aim:</H3>
 To implement a Multilayer Perceptron for Multi classification
@@ -174,10 +174,6 @@ print(classification_report(testing_b,predicted_values))
 
 <H3>Output:</H3>
 
-```
 
-![321188559-3917e443-9424-404b-8fbd-c40cf6a455c1](https://github.com/Sangavi-suresh/Ex-4-NN/assets/118541861/405611d4-fa08-4082-8eb6-b8cb53116b16)
-
-```
 <H3>Result:</H3>
 Thus, MLP is implemented for multi-classification using python.
